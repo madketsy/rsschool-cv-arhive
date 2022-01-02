@@ -15,7 +15,7 @@ I am a junior Front-end developer.I know a little bit of the basics:
 * JS
 
 ## Code examples
-Javascript:
+JS:
 ```
 console.log('Hello, World!');
 ```
