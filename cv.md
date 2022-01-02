@@ -27,4 +27,4 @@ Ulianovsk state Universuty, Institute of Economics and Business, Investment mana
 I haven't commercial development experience. But I learn JS and do my study projects. For example, [My sv](https://madketsy.github.io/rsschool-cv/cv)
 
 ## English level
-My Enhlish level is B1
+My Enhlish level is B1. I am going to improve my English skills.
