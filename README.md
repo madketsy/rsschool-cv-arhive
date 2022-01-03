@@ -1,3 +1,5 @@
 # rsschool-cv
-https://madketsy.github.io/rsschool-cv/
-https://madketsy.github.io/rsschool-cv/cv
+<ul>
+  <li>https://madketsy.github.io/rsschool-cv/</li>
+  <li>https://madketsy.github.io/rsschool-cv/cv</li>
+</ul>
